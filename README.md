@@ -1,5 +1,5 @@
 # java-soccer-game-ai
-An expandable 5 v 5 soccer game in java. Here are 3 simple steps to start a match:
+An expandable 5 v 5 soccer game simulation that puts an AI against another AI in java. Here are 3 simple steps to start a match:
 - Initialize the project structure to include the following libs (they are provided under **libs** folder)
   - **_lwjgl_** (included from slick2d)
   - **_javaGeom_**
