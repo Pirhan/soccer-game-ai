@@ -1,4 +1,4 @@
-# java-soccer-game-ai
+# soccer-game-ai
 An expandable 5 v 5 soccer game simulation that puts an AI against another AI in java. 
 ![giphy](https://user-images.githubusercontent.com/64742446/138037100-6c63e2f0-6729-42f3-aa14-5fe4a4707b01.gif)
 
